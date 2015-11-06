@@ -1,6 +1,6 @@
 name: LilyTran
 favicon: null
-layout_spectrum: 0.89981
+layout_spectrum: 1
 typography_spectrum: 0.849376633297652
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#9b9b9b'
     - '#454545'
   brandStrength: 0.75
-  lightness: 0.8602289513219148
-  saturation: 0.8267138623632491
-  rhythmicContrast: 0.19032598659396172
+  lightness: 0.875
+  saturation: 0.9375
+  rhythmicContrast: 0.25
 purpose: []
